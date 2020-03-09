@@ -1,0 +1,225 @@
+{
+  "header": {
+    "appTitle": "Decisions",
+    "greeting": "{{name}}",
+    "department": "{{dept}}",
+    "signOut": "sign out",
+    "menu": {
+      "createOpp": "Create Opportunity",
+      "viewOpp": "View Opportunities",
+      "dashboard": "Dashboard"
+    }
+  },
+  "footer": {
+    "copyRight": "All Rights Reserved © 2019 AAAID"
+  },
+  "messages": {
+    "allMet": "This opportunity doesn't meet the required standar as all the question must met ",
+    "nextStep": "Are you sure you want to proceed to the next step",
+    "txtRequiredMessage": "Please Insert {{reuiredField}}",
+    "txtSelectOneMessage": "please select {{reuiredField}}",
+    "txtSelectWithMinMessage": "please select {{count}} at least for {{reuiredField}}",
+    "txtMoreThanMessage": "please insert more than {{minValue}} in {{fieldName}}",
+    "txtEmailNotVaild": "Email is invaild",
+    "txtDublicate": "{{field}} Number is Dublicated",
+    "doesntHave": "No Content available",
+    "savedForLaterSuccess": "Your Survey has been saved successfully",
+    "savedForLaterError": "Your Survey hasn't been saved, Please try again"
+  },
+  "buttons": {
+    "next": "Next",
+    "previous": "Previous",
+    "save": "Save",
+    "attach": "Attach",
+    "cancel": "Cancel",
+    "add": "Add",
+    "yes": "Yes",
+    "no": "No",
+    "submit": "Submit",
+    "send": "Send",
+    "close": "Close",
+    "saveForLater": "Save For Later",
+    "backDetails": "Back To Details",
+    "backSum": "Back To Summary"
+  },
+  "commonLabel": {
+    "attachDoc": "Attach Document",
+    "meet": "Met",
+    "notMeet": "Not Met"
+  },
+  "login": {
+    "firstLevelHeader": "Login",
+    "seconLevelHeader": "Hello",
+    "UserMail": "EMail",
+    "Password": "Password",
+    "InvaildLogin": "Invaild Email or Password"
+  },
+  "opportunityDetails": {
+    "summary": {
+      "overview": "Project Overview",
+      "overviewMsg": "sector, location, time, etc...",
+      "brief": "Brief Business Model",
+      "briefMsg": "The Brief of your business Model",
+      "motivation": "Motivation",
+      "motivationMsg": "what is your motivation to invest in project"
+    },
+    "weakStrength": {
+      "weak": "Weakness",
+      "weakMsg": "Write one weakness at a time",
+      "strength": "Strengths",
+      "strengthMsg": "Write one strength at a time",
+      "addStrength": "Add Strength",
+      "addWeak": "Add Weakness"
+    }
+  },
+  "strategic": {
+    "portfolio": {
+      "subtitle": " Investment strategy alignment (and concentration limits)",
+      "q1": "Is the project aligned to AAAID's investment programmes and initiatives?",
+      "q2": "Is more than 30% of AAAID's invested capital already allocated to the project's sector?",
+      "q3": "What is the political risk index for the country?",
+      "q4": "What are the potential risks associated with the region and what impacts could these risks have? Describe the mitigation actions",
+      "q4Placeholder": "Write the risks, their impacts and their mitigation actions",
+      "q5": "Identify and highlight any key project risks to date and the mitigation actions",
+      "q5Placeholder": "Write the key risks and its mitigation actions"
+    },
+    "partnerships": {
+      "q1": "What is the partnership model / structure with AAAID and the project parners / promotors?",
+      "q1Placeholder": "(e.g. joint venture,etc.)",
+      "q2": "Has any initial assessment of the partner been done?",
+      "q2Placeholder": "(e.g. interviews, etc)",
+      "q3": "Provide the track record of the partner / promotor in the industry and geography",
+      "q3Placeholder": "The track record",
+      "q4": "Are any partners / promotors considered PEPs (politically exposed persons)?",
+      "q5": "Describe any key terms with local partners / promotors",
+      "q5Placeholder": "(e.g. equity%, project development, managment capability, dept raising and financing, etc.)",
+      "q6": "Describe any legal aspects of the project such as contracts, initial agreements signed with AAAID, etc",
+      "q6Placeholder": "the legal aspects"
+    }
+  },
+  "financial": {
+    "funding": {
+      "subtitle1": "Investment size",
+      "q11": "What is the total investment cost of the project?",
+
+      "subtitle2": "Equity value & stake",
+      "q21": "What is AAAID's equity stake in the project?",
+      "q22": "What is the debt to equity ratio of the project? Based on the above, what is AAAID's investment cost?",
+
+      "subtitle3": "Source of funding",
+      "q31": "Explain the contribution of the various partners to the funding of the project (e.g. which stage)",
+      "q32": "What is the debt value of the project and are there any initial debt financing agreements?",
+      "q33": "Have the project partners' Board of directors provided approval to inject capital into the project?",
+
+      "subtitle4": "Use of funding",
+      "q41": "Provide an overview/elaborate on the key CAPEX components (e.g. equipment, etc.)",
+      "q42": "What is the working capital/pre-operating expenses of the project?"
+    },
+    "returns": {
+      "subtitle1": "High-level financial model",
+      "q11": "What is the project's equity IRR and the payback period?",
+      "q12": "What is the project's net present value of cash flows?",
+      "subtitle2": "Exit horizon",
+      "q21": "What is the planned exit strategy for the project?"
+    },
+    "performance": {
+      "q1": "Determine the project's dividend pay-out ratio",
+      "q2": "Determine the project's key financial indicators: return on equity, net income, net Profit margin and laverage ratio."
+    }
+  },
+  "operational": {
+    "valueChain": {
+      "subtitle1": "Business model",
+      "q11": "Explain the project's business model and the value chain (e.g. product, services, etc.)",
+      "q12": "What are the key markets that the project targets?",
+      "q13": "Are there any market studies available?",
+      "subtitle2": "Core competencies",
+      "q21": "What are the project's competitve advatages?",
+      "q22": "Is technology being utilized in the core competencies? if yes, describe how.",
+      "q23": "What is the project's unique value proposition?"
+    },
+    "governance": {
+      "subtitle": "Governance structure and top management",
+      "q1": "Provide an overview of the governance for the project (e.g. governance committees, etc.)",
+      "q2": "What are the main capabilities of the project's governance team and top management?",
+      "q3": "Does the governance structure align with AAAID mandates for partnerships?",
+      "q4": "What is the background and industry experience of each company executive?"
+    },
+    "implementation": {
+      "subtitle1": "Ease of implementation",
+      "q11": "Explain the project's challenges/barriers to implementation and the mitigation plan (e.g. external support).",
+      "q12": "What are the key execution positions identified for the project (internally and externally)?",
+      "q13": "Who will assume the execution positions and what are their qualification?",
+      "q14": "What is the current implementation status of the project (e.g. contracts signed, funding sourced, etc.)",
+      "subtitle2": "Project timeline",
+      "q21": "Provide the implementation plan for the project"
+    }
+  },
+
+  "newEval": {
+    "viewAll": "View All Evaluations",
+    "commentCtrl": "Your Comment",
+    "summary": {
+      "step": "Opportunity Summary",
+      "title": "Project Title",
+      "location": "Geography",
+      "market": "Market",
+      "stakeholder": "Stakeholder",
+      "promoter": "Promoter",
+      "addStakeholder": "Add more Stakeholder",
+      "addPromoter": "Add more Promoter",
+      "subTitle": "Title"
+    },
+    "strategic": {
+      "step": "Stragtegic Alignment"
+    },
+    "financial": {
+      "step": "Financial"
+    },
+    "partnerships": {
+      "step": "PartnerShips"
+    },
+    "implementation": {
+      "step": "Ease of Implementation and readiness"
+    }
+  },
+
+  "secondEval": {
+    "title": "Second Level Evaluation",
+    "subTitle": "Opportunity Details"
+  },
+
+  "gridAction": {
+    "View": "View",
+    "Download": "Download",
+    "Edit": "Edit",
+    "Delete": "Delete"
+  },
+  "meetNotEnum": {
+    "0": "Meet",
+    "1": "Not Meet"
+  },
+
+  "dateCtrl": {
+    "date": "Date",
+    "time": "Time"
+  },
+  "EnumStatus": {
+    "0": "Draft",
+    "1": "Under SMO Review",
+    "2": "SMO Approval",
+    "3": "SMO Rejection",
+    "4": "Returned to Applicant",
+    "5": "Complete Screening Report",
+    "6": "Under AIC Review",
+    "7": "AIC Approval",
+    "8": "AIC Rejection",
+    "9": "Under Review By Board",
+    "10": "Board Approval",
+    "11": "Board Rejection"
+  },
+  "readOnly": {
+    "myRespond": "My Respond",
+    "comment": "Comment"
+  }
+}

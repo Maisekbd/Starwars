@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="TrackableEntities.EF.Core" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\URF.Core.Abstraction.Service\URF.Core.Abstractions.Services.csproj" />
+    <ProjectReference Include="..\URF.Core.Abstraction.Trackable\URF.Core.Abstractions.Trackable.csproj" />
+    <ProjectReference Include="..\URF.Core.Abstraction\URF.Core.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

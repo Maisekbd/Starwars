@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="TrackableEntities.Common.Core" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Starwars.Model\Starwars.Model.csproj" />
+    <ProjectReference Include="..\URF_Framework\URF.Core.Abstraction.Service\URF.Core.Abstractions.Services.csproj" />
+    <ProjectReference Include="..\URF_Framework\URF.Core.Abstraction.Trackable\URF.Core.Abstractions.Trackable.csproj" />
+    <ProjectReference Include="..\URF_Framework\URF.Core.Abstraction\URF.Core.Abstractions.csproj" />
+    <ProjectReference Include="..\URF_Framework\URF.Core.EF.Trackable\URF.Core.EF.Trackable.csproj" />
+    <ProjectReference Include="..\URF_Framework\URF.Core.EF\URF.Core.EF.csproj" />
+    <ProjectReference Include="..\URF_Framework\URF.Core.Services\URF.Core.Services.csproj" />
+  </ItemGroup>
+
+</Project>

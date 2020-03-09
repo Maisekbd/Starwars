@@ -1,0 +1,128 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('fonts/icomoon.eot?ywl0px');
+    src: url('fonts/icomoon.eot?ywl0px#iefix') format('embedded-opentype'), url('fonts/icomoon.ttf?ywl0px') format('truetype'), url('fonts/icomoon.woff?ywl0px') format('woff'), url('fonts/icomoon.svg?ywl0px#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add .path1:before {
+    content: "\e910";
+    color: rgb(126, 161, 107);
+}
+
+.icon-add .path2:before {
+    content: "\e911";
+    margin-left: -1em;
+    color: rgb(108, 140, 91);
+}
+
+.icon-add .path3:before {
+    content: "\e912";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+
+.icon-add .path4:before {
+    content: "\e913";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-add .path5:before {
+    content: "\e914";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-cancel .path1:before {
+    content: "\e909";
+    color: rgb(222, 85, 86);
+}
+
+.icon-cancel .path2:before {
+    content: "\e90a";
+    margin-left: -1em;
+    color: rgb(172, 56, 57);
+}
+
+.icon-cancel .path3:before {
+    content: "\e90b";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+
+.icon-cancel .path4:before {
+    content: "\e90c";
+    margin-left: -1em;
+    color: rgb(228, 224, 221);
+}
+
+.icon-cancel .path5:before {
+    content: "\e90d";
+    margin-left: -1em;
+    color: rgb(238, 236, 236);
+}
+
+.icon-cancel .path6:before {
+    content: "\e90e";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-cancel .path7:before {
+    content: "\e90f";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-chats:before {
+    content: "\e900";
+}
+
+.icon-speech:before {
+    content: "\e901";
+}
+
+.icon-chat:before {
+    content: "\e902";
+}
+
+.icon-attach:before {
+    content: "\e903";
+}
+
+.icon-left-chevron:before {
+    content: "\e904";
+}
+
+.icon-up-chevron:before {
+    content: "\e905";
+}
+
+.icon-right-chevron:before {
+    content: "\e906";
+}
+
+.icon-down-chevron:before {
+    content: "\e907";
+}
+
+.icon-eco:before {
+    content: "\e908";
+}

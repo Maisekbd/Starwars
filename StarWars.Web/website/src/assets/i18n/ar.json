@@ -1,0 +1,172 @@
+{
+  "header": {
+    "appTitle": "القرارات",
+    "greeting": "{{name}}",
+    "department": "{{dept}}",
+    "signOut": "خروج",
+    "menu": {
+      "createOpp": "انشاء فرصة",
+      "viewOpp": "عرض الفرص",
+      "dashboard": "Dashboard"
+    }
+  },
+
+
+  "footer": {
+    "copyRight": "جميع الحقوق محفوظة  © للهيئة العربية للاستثمار الزراعي"
+  },
+  "messages": {
+    "allMet": "This opportunity doesn't meet the required standar as all the question must met ",
+    "nextStep": "Are you sure you want to proceed to the next step",
+    "txtRequiredMessage": "الرجاء إدخال {{reuiredField}}",
+    "txtSelectOneMessage": "الرجاء إختيار {{reuiredField}} واحد على الأقل",
+    "txtSelectWithMinMessage": "الرجاء إختيار {{count}} على الأقل لـ {{reuiredField}}",
+    "txtMoreThanMessage": "الرجاء إدخال قيمة أكبر من {{minValue}} لـ {{fieldName}}",
+    "txtEmailNotVaild": "يرجى إدخال الايميل بالصيغه الصحيحة",
+    "txtDublicate": "يوجد تكرار في رقم {{field}}",
+    "doesntHave": "لا يوجد محتوى",
+    "savedForLaterSuccess": "Your Survey has been saved successfully",
+    "savedForLaterError": "Your Survey hasn't been saved, Please try again"
+  },
+  "buttons": {
+    "next": "التالي",
+    "previous": "السابق",
+    "save": "حفظ",
+    "attach": "ارفق",
+    "cancel": "الغاء",
+    "add": "إضافة",
+    "yes": "موافق",
+    "no": "لا",
+    "submit": "إرسال",
+    "send": "إرسال",
+    "close": "غلق",
+    "saveForLater": "Save For Later",
+    "backDetails": "Back To Details",
+    "backSum": "Back To Summary"
+  },
+  "login": {
+    "firstLevelHeader": "تسجيل الدخول",
+    "seconLevelHeader": "مرحبا",
+    "UserMail": "البريد الإلكتروني",
+    "Password": "كلمة المرور",
+    "InvaildLogin": "يوجد خطأ في البريد أو كلمة المرور"
+  },
+  "commonLabel": {
+    "attachDoc": "ارفق ملف"
+  },
+  "opportunityDetails": {
+    "summary": {
+      "overview": "Project Overview",
+      "overviewMsg": "sector, location, time, etc...",
+      "brief": "Brief Business Model",
+      "briefMsg": "The Brief of your business Model",
+      "motivation": "Motivation",
+      "motivationMsg": "what is your motivation to invest in project"
+    },
+    "weakStrength": {
+      "weak": "Weakness",
+      "weakMsg": "Write one weakness at a time",
+      "strength": "Strengths",
+      "strengthMsg": "Write one strength at a time",
+      "addStrength": "Add Strength",
+      "addWeak": "Add Weakness"
+    }
+  },
+  "strategic": {
+    "portfolio": {
+      "subtitle": " Investment strategy alignment (and concentration limits)"
+    },
+    "partnerships": {
+    }
+  },
+  "financial": {
+    "funding": {
+      "subtitle1": "Investment size"      
+    },
+    "returns": {
+      "subtitle1": "High-level financial model",
+      "subtitle2": "Exit horizon"
+    },
+    "performance": {
+    }
+  },
+  "operational": {
+    "valueChain": {
+      "subtitle1": "Business model",
+      "subtitle2": "Core competencies"
+    },
+    "governance": {
+      "subtitle": "Governance structure and top management"
+    },
+    "implementation": {
+      "subtitle1": "Ease of implementation",
+      "subtitle2": "Project timeline"
+    }
+  },
+
+  "newEval": {
+    "viewAll": "View All Evaluations",
+    "commentCtrl": "Your Comment",
+    "summary": {
+      "step": "Opportunity Summary",
+      "title": "Project Title",
+      "location": "Geography",
+      "market": "Market",
+      "stakeholder": "Stakeholder",
+      "promoter": "Promoter",
+      "addStakeholder": "Add Stakeholder",
+      "addPromoter": "Add Promoter",
+      "subTitle": "Title"
+    },
+    "strategic": {
+      "step": "Stragtegic Alignment"
+    },
+    "financial": {
+      "step": "Financial"
+    },
+    "partnerships": {
+      "step": "PartnerShips"
+    },
+    "implementation": {
+      "step": "Ease of Implementation and readiness"
+    }
+  },
+
+  "secondEval": {
+    "title": "Second Level Evaluation",
+    "subTitle": "Opportunity Details"
+  },
+
+  "gridAction": {
+    "View": "إستعراض",
+    "Download": "تحميل الملف",
+    "Edit": "تحرير",
+    "Delete": "حذف"
+  },
+  "meetNotEnum": {
+    "0": "Meet",
+    "1": "Not Meet"
+  },
+  "dateCtrl": {
+    "date": "التاريخ",
+    "time": "الزمن"
+  },
+  "EnumStatus": {
+    "0": "Draft",
+    "1": "Under SMO Review",
+    "2": "SMO Approval",
+    "3": "SMO Rejection",
+    "4": "Returned to Applicant",
+    "5": "Complete Screening Report",
+    "6": "Under AIC Review",
+    "7": "AIC Approval",
+    "8": "AIC Rejection",
+    "9": "Under Review By Board",
+    "10": "Board Approval",
+    "11": "Board Rejection"
+  },
+  "readOnly": {
+    "myRespond": "My Respond",
+    "comment": "Comment"
+  }
+}
